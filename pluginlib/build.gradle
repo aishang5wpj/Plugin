@@ -24,7 +24,7 @@ android {
 
     task makeJar(type: Copy) {
         //删除存在的
-        delete 'build/libs/myjar.jar'
+        delete 'build/libs/pluginlib.jar'
         //设置拷贝的文件
         from('build/intermediates/bundles/debug/')
         //打进jar包后的文件目录
