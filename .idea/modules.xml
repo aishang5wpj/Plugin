@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Plugin.iml" filepath="$PROJECT_DIR$/Plugin.iml" />
+      <module fileurl="file://E:\GitHub\Plugin\Plugin.iml" filepath="E:\GitHub\Plugin\Plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\GitHub\Plugin\app\app.iml" filepath="E:\GitHub\Plugin\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloplugin/helloplugin.iml" filepath="$PROJECT_DIR$/helloplugin/helloplugin.iml" />
+      <module fileurl="file://E:\GitHub\Plugin\helloplugin\helloplugin.iml" filepath="E:\GitHub\Plugin\helloplugin\helloplugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/pluginlib/pluginlib.iml" filepath="$PROJECT_DIR$/pluginlib/pluginlib.iml" />
+      <module fileurl="file://E:\GitHub\Plugin\pluginlib\pluginlib.iml" filepath="E:\GitHub\Plugin\pluginlib\pluginlib.iml" />
     </modules>
   </component>
 </project>
